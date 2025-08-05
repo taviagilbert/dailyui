@@ -20,5 +20,6 @@ Below is the gallery of my completed challenges. Click "View Live" to see each o
 | :--- | :--- | :--- |
 | 001 | Cyberpunk 2077 - NetRunner Error | [View Live](https://cyberpunk2077-netrunner-error.netlify.app/) |
 | 002 | Interactive DedSec 404 Page Experience | [View Live](https://interactivededsec.netlify.app/)
+| 003 | Zen Hiragana Keyboard | [View Live](https://zen-hiragana-keyboard.netlify.app/)
 
 Feel free to browse the live demos. If you have any feedback, I'd love to hear it!
