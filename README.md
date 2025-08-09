@@ -23,6 +23,6 @@ Below is the gallery of my completed challenges. Click "View Live" to see each o
 | 003 | Zen Hiragana Keyboard | [View Live](https://zen-hiragana-keyboard.netlify.app/)
 | 004 | Stranger Things 5 Countdown | [View Live](https://stranger-things-5-countdown.netlify.app/)
 | 005 | Interactive Puzzle-Themed Sign-Up Form | [View Live](https://interactive-puzzle-sign-up-form.netlify.app/)
-| 006 | Interactive Stripe Checkout Form| [View Live](https://www.codester.com/craftydigitalcreative/)
+| 006 | Interactive Stripe Checkout Form| [View Live](https://www.codester.com/craftydigitalcreativethemes/)
 
 Feel free to browse the live demos. If you have any feedback, I'd love to hear it!
