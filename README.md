@@ -24,5 +24,6 @@ Below is the gallery of my completed challenges. Click "View Live" to see each o
 | 004 | Stranger Things 5 Countdown | [View Live](https://stranger-things-5-countdown.netlify.app/)
 | 005 | Interactive Puzzle-Themed Sign-Up Form | [View Live](https://interactive-puzzle-sign-up-form.netlify.app/)
 | 006 | Interactive Stripe Checkout Form| [View Live](https://www.codester.com/craftydigitalcreativethemes/)
+| 007 | Kawaii Calculator| [View Live](https://kawaii-calculator-ui.netlify.app/)
 
 Feel free to browse the live demos. If you have any feedback, I'd love to hear it!
