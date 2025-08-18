@@ -27,7 +27,6 @@ Below is the gallery of my completed challenges. Click "View Live" to see each o
 | 007 | Kawaii Calculator| [View Live](https://kawaii-calculator-ui.netlify.app/)
 | 008 | Potion Skill Chart| [View Live](https://potion-skill-chart.netlify.app/)
 | 009 | Speech Bubble FAQ Page| [View Live](https://speech-bubble-faq-page.netlify.app/)
-| 010 | Baking Blog Recipe Page With Timer
-| [View Live](https://baking-blog-recipe-page.netlify.app/)
+| 010 | Baking Blog Recipe Page With Timer | [View Live](https://baking-blog-recipe-page.netlify.app/)
 
 Feel free to browse the live demos. If you have any feedback, I'd love to hear it!
