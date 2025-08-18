@@ -23,7 +23,7 @@ Below is the gallery of my completed challenges. Click "View Live" to see each o
 | 003 | Zen Hiragana Keyboard | [View Live](https://zen-hiragana-keyboard.netlify.app/)
 | 004 | Stranger Things 5 Countdown | [View Live](https://stranger-things-5-countdown.netlify.app/)
 | 005 | Interactive Puzzle-Themed Sign-Up Form | [View Live](https://interactive-puzzle-sign-up-form.netlify.app/)
-| 006 | Interactive Stripe Checkout Form| [View Live](https://www.codester.com/craftydigitalcreativethemes/)
+| 006 | Interactive Stripe Checkout Form| [View Live](https://interactive-stripe-checkout-form.netlify.app/)
 | 007 | Kawaii Calculator| [View Live](https://kawaii-calculator-ui.netlify.app/)
 | 008 | Potion Skill Chart| [View Live](https://potion-skill-chart.netlify.app/)
 | 009 | Speech Bubble FAQ Page| [View Live](https://speech-bubble-faq-page.netlify.app/)
